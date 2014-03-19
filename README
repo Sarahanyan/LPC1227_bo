@@ -1,2 +1,3 @@
 This is small breakuot board for LPC1227 a similar, to allow breadboarding with smaller footprint than nice, but huge LPCXpresso boards.
+Design fils are for Eagle 6.
 Attached is also test code to excercise LED on PIO1_6
